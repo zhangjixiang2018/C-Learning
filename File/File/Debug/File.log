@@ -1,0 +1,6 @@
+﻿  main.c
+D:\code\c\文件读写\File\main.c(33,9): warning C4013: “memset”未定义；假设外部返回 int
+D:\code\c\文件读写\File\main.c(72,18): warning C4013: “rand”未定义；假设外部返回 int
+D:\code\c\文件读写\File\main.c(140,7): warning C4013: “free”未定义；假设外部返回 int
+D:\code\c\文件读写\File\main.c(150,32): warning C4013: “malloc”未定义；假设外部返回 int
+  File.vcxproj -> D:\code\c\文件读写\File\Debug\File.exe
