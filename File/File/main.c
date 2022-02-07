@@ -170,9 +170,9 @@ int main()
 
 	//以文本方式操作文件
 	printf("******以二进制方式写文件\n\n");
-	WriteFileByData();
+	writefilebydata();
 	printf("******以二进制方式读文件\n\n");
-	ReadFileByData();
+	readfilebydata();
 
 	return 0;
 }
