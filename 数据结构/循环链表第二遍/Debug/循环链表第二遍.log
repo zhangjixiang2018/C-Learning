@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\code\c\数据结构\循环链表第二遍\main.cpp(8,2): warning C4091: “typedef ”: 没有声明变量时忽略“Value”的左侧
+  循环链表第二遍.vcxproj -> D:\code\c\数据结构\线性表的顺序存储\Debug\循环链表第二遍.exe

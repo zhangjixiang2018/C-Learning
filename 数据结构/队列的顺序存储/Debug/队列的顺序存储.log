@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\code\c\数据结构\队列的顺序存储\main.cpp(36,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  队列的顺序存储.vcxproj -> D:\code\c\数据结构\线性表的顺序存储\Debug\队列的顺序存储.exe
